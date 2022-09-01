@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MinimalistContentProvider</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="insert">insert</string>
+    <string name="list_first_word">List first word</string>
+    <string name="list_all_words">List all words</string>
+    <string name="response">Response:</string>
+    <string-array name="words">
+        <item>Android</item>
+        <item>Activity</item>
+        <item>ContentProvider</item>
+        <item>ContentResolver</item>
+    </string-array>
+</resources>
